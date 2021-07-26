@@ -7,3 +7,4 @@ public class Restaurant {
         menu.printMenu();
     }
 }
+
