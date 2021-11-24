@@ -1,0 +1,672 @@
+vssadmin 1.1 - Volume Shadow Copy Service administrative command-line tool
+(C) Copyright 2001-2013 Microsoft Corp.
+
+Contents of shadow copy set ID: {80baa8e9-6926-4d24-b877-c66e23fb2e82}
+   Contained 3 shadow copies at creation time: 10.09.2021 08:08:19
+      Shadow Copy ID: {2b2c1485-67b2-40a0-8267-3fdbe3c82e55}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy1
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {3a8e0f0c-da59-45ef-9d0c-2c1c76d13328}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy25
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {c4831d7a-f798-4f02-b7e1-7e0f05daaa35}
+   Contained 3 shadow copies at creation time: 10.09.2021 13:18:08
+      Shadow Copy ID: {8ab63b64-e5ce-4e88-aad9-9feb6dc5158e}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy4
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {cc8e76f1-65a2-463c-8860-d5f545ecaf45}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy28
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {f2c3fed8-af97-40d9-9292-3214a7f07f25}
+   Contained 3 shadow copies at creation time: 10.09.2021 14:38:17
+      Shadow Copy ID: {8909ebed-52dc-4495-874f-08a75373d8f2}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy5
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {0f4b7d73-1ecc-4e51-943f-7793af4f142b}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy29
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {1e9c3f82-10ff-4187-83da-9cd2f18697ad}
+   Contained 3 shadow copies at creation time: 27.09.2021 16:00:03
+      Shadow Copy ID: {7c41f2a8-3b17-432f-ada0-a03fc504aa5f}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy7
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {06297343-874b-44fb-99e9-93cd4cf7a6f1}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy31
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {e3e2d1be-0909-49b2-bac6-10e03e8166c2}
+   Contained 3 shadow copies at creation time: 27.09.2021 19:00:02
+      Shadow Copy ID: {f249e747-bc7b-4133-8876-c6b1d37844e2}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy8
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {13c3813e-2818-4ca8-8f79-34194dd42443}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy32
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {9f1f7433-6456-4858-ac0a-fafd266e69ba}
+   Contained 3 shadow copies at creation time: 27.09.2021 22:00:07
+      Shadow Copy ID: {c41da4ce-7829-4bbc-84ab-01ccaeceaae1}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy10
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {85e55467-240c-4b77-83ef-10cb8f30fe5c}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy34
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {71b42bdf-9af7-4a2a-964e-d1f8dcc836a3}
+   Contained 3 shadow copies at creation time: 28.09.2021 01:00:07
+      Shadow Copy ID: {c4844ec2-2f8d-4efb-8c10-ed9cf1d3da5e}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy11
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {f55a24d7-4cca-4edd-a16d-b88e29474f47}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy35
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {6a534250-1203-41a3-9c18-64b92b75cf9d}
+   Contained 3 shadow copies at creation time: 28.09.2021 03:00:06
+      Shadow Copy ID: {e6eda5e0-1525-4568-9cab-f4f85450023a}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy13
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {70884d73-7f6a-465d-a34c-eaddd9463bc6}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy37
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {4315900e-dcd3-4551-a2dd-8869b6f209c4}
+   Contained 3 shadow copies at creation time: 28.09.2021 05:00:06
+      Shadow Copy ID: {3789f64a-709b-44c5-8304-441dc619a7b1}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy14
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {09eb2b37-ca84-43c2-b19a-5535ffda8607}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy38
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {172dba6f-e828-4ff6-9a46-5419af9f8d11}
+   Contained 3 shadow copies at creation time: 28.09.2021 07:06:22
+      Shadow Copy ID: {192cff3a-dbe6-4ab2-aae6-88e7b2509eb7}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy16
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {8f237343-26f7-475b-a21f-ddbb588012fd}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy40
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {5434250c-209e-4e25-bfd2-4360be35e4eb}
+   Contained 3 shadow copies at creation time: 28.09.2021 07:26:02
+      Shadow Copy ID: {f22ab9c3-61b3-4a52-bbe6-4ffdd549be31}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy18
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {984dda8c-65bf-4c91-9eda-22516fad924c}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy42
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {eeca2b09-28d5-4fc3-8c1a-8ba27ee054da}
+   Contained 3 shadow copies at creation time: 29.09.2021 12:31:36
+      Shadow Copy ID: {4ad08bd2-dd91-46bd-9cc1-127d4124a65c}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy21
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+      Shadow Copy ID: {6109b0b6-00ab-47e7-b13d-8d227df5b003}
+         Original Volume: (\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\)\\?\Volume{d63a7eb3-0000-0000-0000-f0c337000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy45
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {1d739269-3752-4f10-8414-d154effa1f79}
+   Contained 2 shadow copies at creation time: 15.09.2021 07:55:05
+      Shadow Copy ID: {0f3f0d9a-d67a-4d17-8cd1-c5ee056ffcf3}
+         Original Volume: (D:)\\?\Volume{3179991c-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy46
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {52ddf0c0-ef45-4f89-a571-a865febe122b}
+   Contained 2 shadow copies at creation time: 15.09.2021 13:27:00
+      Shadow Copy ID: {510f7853-9b26-479b-8630-789f5e4163e1}
+         Original Volume: (D:)\\?\Volume{3179991c-0000-0000-0000-100000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy47
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {ca65ede4-7a55-4a9c-85db-9a9ac1bb2972}
+   Contained 1 shadow copies at creation time: 05.10.2021 10:24:20
+      Shadow Copy ID: {139fcd5f-f4af-4fea-b134-1574d88dbc42}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy51
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {0b759322-02d6-40ee-899c-b998f8455d35}
+   Contained 1 shadow copies at creation time: 05.10.2021 11:30:08
+      Shadow Copy ID: {0c9de782-8888-4b4a-8921-37a3d25738d5}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy54
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {ca1e1b53-05f0-42f3-a33e-888a1d50851f}
+   Contained 1 shadow copies at creation time: 05.10.2021 11:34:25
+      Shadow Copy ID: {8be1c3a9-0fd7-43c6-bdc9-0e56d9c20d99}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy56
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {bb10ae86-effa-42b9-91d5-493a5b055722}
+   Contained 1 shadow copies at creation time: 05.10.2021 11:37:40
+      Shadow Copy ID: {339e2ec2-f9a0-4b3a-8c73-3b5323aa82ae}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy57
+         Originating Machine: DESKTOP-SDOLANR
+         Service Machine: DESKTOP-SDOLANR
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {4f7a1b9a-e8be-4e49-8400-6ce80704caf7}
+   Contained 1 shadow copies at creation time: 06.10.2021 14:30:02
+      Shadow Copy ID: {abd55130-78b4-4497-b457-ad64c31de397}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy59
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {8d0995e6-e021-41db-ab76-ee2a20d40970}
+   Contained 1 shadow copies at creation time: 06.10.2021 14:37:31
+      Shadow Copy ID: {b1921118-699e-43a0-8497-23c253de5c7e}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy60
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {222bf6fb-ad66-4873-8963-c4f9832221bb}
+   Contained 1 shadow copies at creation time: 19.10.2021 09:30:07
+      Shadow Copy ID: {4d8a2b88-86a9-4153-b04b-318760686868}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy62
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {79330437-e5d1-4ab3-8a15-c48fd97fd971}
+   Contained 1 shadow copies at creation time: 19.10.2021 10:34:10
+      Shadow Copy ID: {3e8902f5-b3e3-4c40-b661-dfa2e4f05871}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy63
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {86f4422c-4380-4409-98fc-c95dbfa835e1}
+   Contained 1 shadow copies at creation time: 19.10.2021 10:53:31
+      Shadow Copy ID: {5c652c6d-382a-41f7-adbe-5488d52d9c3c}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy65
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {86898771-de33-4b5a-8df1-bc8794fcf3de}
+   Contained 1 shadow copies at creation time: 19.10.2021 10:58:49
+      Shadow Copy ID: {25304409-759f-4033-8416-3ffb49b4a292}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy66
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {f262de0a-8b7b-4af0-81b1-b4a047723e62}
+   Contained 1 shadow copies at creation time: 19.10.2021 13:52:07
+      Shadow Copy ID: {4c5d3865-eff1-4e91-8f29-1127961de0da}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy67
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {5532f20d-f214-41f8-b4b1-ace518f2a414}
+   Contained 1 shadow copies at creation time: 19.10.2021 13:56:07
+      Shadow Copy ID: {654f2cd2-4cb0-48a0-9b42-722203f9a54d}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy68
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {709c6f19-7661-4ad1-b33e-8a3fd3ecfc73}
+   Contained 1 shadow copies at creation time: 19.10.2021 14:02:58
+      Shadow Copy ID: {ddbad78a-3cc4-4d26-a2a7-a27580d5ba56}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy70
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {9588b26a-3411-4387-b505-7ec59c685fc2}
+   Contained 1 shadow copies at creation time: 19.10.2021 14:03:55
+      Shadow Copy ID: {eaed3d74-b1e3-47fe-b6bd-5036a1831d35}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy71
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {4b3ed772-5222-42a9-be2e-c5ceab0326f2}
+   Contained 1 shadow copies at creation time: 19.10.2021 14:07:04
+      Shadow Copy ID: {0ede6e58-014d-47e1-ae77-462140478765}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy73
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {4143d583-e02a-4030-990f-0627faba697b}
+   Contained 1 shadow copies at creation time: 19.10.2021 14:07:54
+      Shadow Copy ID: {69cd0977-def4-43dc-a418-966da8f4ecb7}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy74
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {1561add6-999d-454f-8bc5-65f4a491a837}
+   Contained 1 shadow copies at creation time: 19.10.2021 14:13:44
+      Shadow Copy ID: {c13ffa6d-c5ce-492f-87f7-925aea0de460}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy76
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {88739fab-0fa0-4da8-a827-9e275cdb93c8}
+   Contained 1 shadow copies at creation time: 19.10.2021 14:14:55
+      Shadow Copy ID: {42afe58d-35ea-413a-9231-9fa26fa3dff0}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy77
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {a24ef10e-0dba-45f9-bc1f-95c56cb9c1a9}
+   Contained 1 shadow copies at creation time: 19.10.2021 14:53:01
+      Shadow Copy ID: {cf967dbb-2ac2-43ea-bbb7-92dc012d6fac}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy79
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {f4fb5463-0ce3-485d-9458-f917cfb6e489}
+   Contained 1 shadow copies at creation time: 19.10.2021 14:53:36
+      Shadow Copy ID: {c7623911-cc9e-41ca-8a35-5515412b8e3b}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy80
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {329d51f9-948b-407b-b2b1-d606ffba7e97}
+   Contained 1 shadow copies at creation time: 19.10.2021 15:00:15
+      Shadow Copy ID: {b2169352-425b-45d5-9337-478ca8269801}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy82
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {a1661d41-e84b-4c3c-a626-11e87878f06c}
+   Contained 1 shadow copies at creation time: 19.10.2021 15:01:23
+      Shadow Copy ID: {dafe5d99-41ee-4781-9366-e283e14405fd}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy83
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {15372773-ad25-473b-9d26-61ac6a1c7490}
+   Contained 1 shadow copies at creation time: 19.10.2021 15:19:22
+      Shadow Copy ID: {cbaf3200-6dda-4500-9507-4e5ec1a2f505}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy85
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {1b077940-450a-45ee-a175-41ed0df19c2f}
+   Contained 1 shadow copies at creation time: 20.10.2021 13:00:36
+      Shadow Copy ID: {7988ddfa-2744-4b7a-9063-e0d776b440b9}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy88
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {54694bed-aa3d-4d3f-ad6e-f8d15e618bd3}
+   Contained 1 shadow copies at creation time: 20.10.2021 20:20:23
+      Shadow Copy ID: {a4ed02a5-9437-4fa5-95e1-450dc485b3a6}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy90
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {514c8a05-6512-4f80-9ea1-ee2ea063a7e1}
+   Contained 1 shadow copies at creation time: 20.10.2021 20:21:08
+      Shadow Copy ID: {f2ab1dbf-a1aa-4386-a6dc-75b8fbce4d24}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy91
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {2e0fa3be-c782-4927-86cb-d923b1c9b4f0}
+   Contained 1 shadow copies at creation time: 20.10.2021 20:34:03
+      Shadow Copy ID: {e2e7ee30-809d-400e-89e3-a07bb39eae98}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy93
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {5c9e15bd-dafe-497b-a3d2-fc2f3e3e21c0}
+   Contained 1 shadow copies at creation time: 20.10.2021 20:35:03
+      Shadow Copy ID: {b8ccc605-ca42-40ae-9ca9-3e93afd73135}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy94
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {001fb123-faef-49ab-a2f0-c3c99dd74b3a}
+   Contained 1 shadow copies at creation time: 22.10.2021 13:05:34
+      Shadow Copy ID: {47d578f7-9913-4a08-9e10-3349cdd694d2}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy96
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {bc0d93a3-5c57-4741-aca2-fdfd5d136b2d}
+   Contained 1 shadow copies at creation time: 22.10.2021 13:08:05
+      Shadow Copy ID: {9779aba0-cb84-47f5-9cbf-217ed2fd1b37}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy97
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {06b0fc44-3b54-4d0f-b61b-6fa0c46c8318}
+   Contained 1 shadow copies at creation time: 25.10.2021 12:10:34
+      Shadow Copy ID: {64f375da-47ba-4414-940d-af67e9abd699}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy99
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {c85e0a7d-edf5-4eca-a3bb-4a9a25420fbb}
+   Contained 1 shadow copies at creation time: 25.10.2021 12:29:51
+      Shadow Copy ID: {d1d114ca-7f12-4884-8164-dc303602b5af}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy104
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {e103758e-9749-4dc3-b4e2-24b7d3d65628}
+   Contained 1 shadow copies at creation time: 08.11.2021 13:21:01
+      Shadow Copy ID: {f00be82f-2147-44da-aa47-b211ef0c538a}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy107
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {a47288a0-96a9-42a4-a48b-a3c3f047d872}
+   Contained 1 shadow copies at creation time: 08.11.2021 14:53:32
+      Shadow Copy ID: {33a4269f-bd25-4e50-bc68-d03d501ac286}
+         Original Volume: (Y:)\\?\Volume{359475e2-0000-0000-0000-010000000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy112
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ApplicationRollback
+         Attributes: Persistent, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {3eba9d50-a506-46f3-b6ea-98e00d9f534d}
+   Contained 1 shadow copies at creation time: 28.10.2021 19:15:32
+      Shadow Copy ID: {05a0454b-ad83-4a8e-9590-158ee896f063}
+         Original Volume: (C:)\\?\Volume{d63a7eb3-0000-0000-0000-300300000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy22
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ClientAccessibleWriters
+         Attributes: Persistent, Client-accessible, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {6617c595-784b-4b89-81eb-bf8aced68e23}
+   Contained 1 shadow copies at creation time: 08.11.2021 16:47:16
+      Shadow Copy ID: {97737947-ced5-4650-9f87-3a3187a6354a}
+         Original Volume: (C:)\\?\Volume{d63a7eb3-0000-0000-0000-300300000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy23
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ClientAccessibleWriters
+         Attributes: Persistent, Client-accessible, No auto release, Differential, Auto recovered
+
+Contents of shadow copy set ID: {b0873578-3d3c-4ef4-af9f-a167cf83c8d2}
+   Contained 1 shadow copies at creation time: 10.11.2021 17:05:23
+      Shadow Copy ID: {d8e16d6a-3fd2-4bdf-a54b-4d6aeba6c576}
+         Original Volume: (C:)\\?\Volume{d63a7eb3-0000-0000-0000-300300000000}\
+         Shadow Copy Volume: \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy24
+         Originating Machine: LUTSENKO_T
+         Service Machine: LUTSENKO_T
+         Provider: 'Microsoft Software Shadow Copy provider 1.0'
+         Type: ClientAccessibleWriters
+         Attributes: Persistent, Client-accessible, No auto release, Differential, Auto recovered
+
