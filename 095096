@@ -1,0 +1,12 @@
+095096
+  // Recalculate a Websheet
+    // ----------------------
+    function recalculate() {
+        getActiveWidget().recalculate().then(
+            function() {
+            	console.debug("Recalculate completed successfully.");
+        	},
+        	function(message) {
+        	    console.error(message);
+        	}
+        );
