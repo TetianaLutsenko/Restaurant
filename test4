@@ -1,1 +1,13 @@
 test4
+  // Save a view for a CubeViewer object
+    // ----------------------
+    function saveView() {
+        loadedCubeview.save().then(
+            function() {
+            	console.debug("Saving view completed successfully.");
+        	},
+        	function(message) {
+        	    console.error(message);
+        	}
+        );
+    };
